@@ -1,10 +1,11 @@
 # CrazyDonkeyTarmo
 
-Todo: Currently being organized, please be patient.
-项目资料还在更新中，目前已经开放 RC 车制作部分。
+`TBD`:
+`Currently being organized, please be patient.!!! `
+`项目资料还在更新中，目前已经开放 RC 车制作部分!!!`
 
 
-CrazyDonkeyTarmo 项目目标是保留高性能RC车乐趣的同时能开展学习自动驾驶技术。
+`CrazyDonkeyTarmo` 项目目标是保留高性能RC车乐趣的同时能开展学习自动驾驶技术。  
 项目深度改造 Tarmo5 RC 车， 结合 DonkeyCar 自动驾驶项目。
 
 ----
