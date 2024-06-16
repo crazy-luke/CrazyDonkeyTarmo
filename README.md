@@ -8,16 +8,22 @@
 `CrazyDonkeyTarmo` 项目目标是保留高性能RC车乐趣的同时能开展学习自动驾驶技术。  
 项目深度改造 Tarmo5 RC 车， 结合 DonkeyCar 自动驾驶项目。
 
+# 视频
+* 《造车篇》： https://www.bilibili.com/video/BV1qM4m1U7vm
+* 《自动驾驶篇》: todo
+
 ----
 ## 车辆硬件制作
-* CDT_Assemble.pdf ： 组装说明 (P1-车辆)
+* [CDT_Assemble.pdf](CDT_Assemble.pdf) ： 组装说明 (P1-车辆)
 * STL： 3D 打印文件 （打印参数见Readme)
+* [Parts.md](Parts.md): 视频中使用的部分零件
+
 ![main_car](res/main_car.png)
 
 
 ## PCB电路 （Optinal)
-* PCB_CrazyPowerBoard： 探路者控制板 
 * PCB_CrazyDonkeyTarmoBoard：超级电源板 
+* PCB_CrazyPowerBoard： 探路者控制板 
     * BOM.csv: 采购元件清单
     * ibom.html：元件摆放(细节见PNG图片)
     * Gerber：PCB生产
