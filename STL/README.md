@@ -1,8 +1,8 @@
 # CrazyDonkeyTarmo PRINTED PARTS
 ---
 >Filament: 
-`ABS`: 20% lighter compared to PETG  (ABS 比 PETG重量轻20%)
-`PETG`: More resistant to UV light compared to ABS  (PETG 比 ABS 更耐紫外线)
+>`ABS`: 20% lighter compared to PETG  (ABS 比 PETG重量轻20%)  
+>`PETG`: More resistant to UV light compared to ABS  (PETG 比 ABS 更耐紫外线)
 
 
 ## Main Parts
