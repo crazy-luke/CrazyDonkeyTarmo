@@ -1,5 +1,0 @@
-"Reference","Value","Datasheet","Footprint","Qty","Manufacturer","PartNumber"
-"J2","Conn_02x03_Odd_Even","~","Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal","1","",""
-"J3","Conn_02x06_Odd_Even","~","Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical","1","",""
-"J4","Conn_02x04_Odd_Even","~","Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Horizontal","1","",""
-"S1,S2,S3,S4,S5,S6","JS202011JCQN","https://www.ckswitches.com/media/1422/js.pdf","CrazyDonkeyTarmoBoard:SW_JS202011JCQN","6","C&K","JS202011JCQN"

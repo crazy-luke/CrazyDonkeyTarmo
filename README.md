@@ -1,25 +1,19 @@
 # CrazyDonkeyTarmo
 
-`TBD`:
-`Currently being organized, please be patient.!!! `
-`项目资料还在更新中，目前已经开放 RC 车制作部分!!!`
-
-
 `CrazyDonkeyTarmo` 项目目标是保留高性能RC车乐趣的同时能开展学习自动驾驶技术。  
 项目深度改造 Tarmo5 RC 车， 结合 DonkeyCar 自动驾驶项目。
 
-# 视频
+## 视频介绍
 * 《造车篇》： https://www.bilibili.com/video/BV1qM4m1U7vm
 * 《自动驾驶篇》: todo
 
-----
-## 车辆硬件制作
-* [CDT_Assemble.pdf](CDT_Assemble.pdf) ： 组装说明 (P1-车辆)
-* STL： 3D 打印文件 （打印参数见Readme)
-* [Parts.md](Parts.md): 视频中使用的部分零件
+---
+## 车辆制作 (Hardwear_Car)
+* [CDT_Assemble.pdf](./Hardwear_Car/CDT_Assemble.pdf) ： 组装说明书
+* STL： 3D 打印文件 （打印参数见 `stl/README.md` )
+* [Parts.md](./Hardwear_Car/Parts.md): 视频中使用的部分零件
 
-![main_car](res/main_car.png)
-
+![main_car](res/main_car.png) 
 
 ## PCB电路 （Optinal)
 * PCB_CrazyDonkeyTarmoBoard：超级电源板 
@@ -28,12 +22,15 @@
     * ibom.html：元件摆放(细节见PNG图片)
     * Gerber：PCB生产
     * Schematic：原理图
-    
-    
+* 电路连接: [Wiring Diagram.jpg](./Hardwear_Car/wiring_diagram.jpg)
 
+---
+## 自动驾驶篇 (Softwear_SelfDrive)
+* [星辰探路者自动驾驶系统手册](./Softwear_SelfDrive/crazydonkeytarmo.md)
+* [扩展篇-物件识别](./Softwear_SelfDrive/crazydonekytarmo2.md) （Optinal)
+* myconfig: 探路者配置参考文件
 
-## 自动驾驶篇 (Todo)
-Todo
+![self_drive](res/self_drive.png)
 
 
 
