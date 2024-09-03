@@ -5,7 +5,7 @@
 
 ## 视频介绍
 * 《造车篇》： https://www.bilibili.com/video/BV1qM4m1U7vm
-* 《自动驾驶篇》: todo
+* 《自动驾驶篇》: https://www.bilibili.com/video/BV124HyeUER8
 
 ---
 ## 车辆制作 (Hardwear_Car)
@@ -26,8 +26,8 @@
 
 ---
 ## 自动驾驶篇 (Softwear_SelfDrive)
-* [星辰探路者自动驾驶系统手册](./Softwear_SelfDrive/crazydonkeytarmo.md)
-* [扩展篇-物件识别](./Softwear_SelfDrive/crazydonekytarmo2.md) （Optinal)
+* [星辰探路者自动驾驶系统手册](./Softwear_SelfDrive/README.md)
+* [扩展篇-物件识别](./Softwear_SelfDrive/crazydonekytarmo_od.md) （Optinal)
 * myconfig: 探路者配置参考文件
 
 ![self_drive](res/self_drive.png)
