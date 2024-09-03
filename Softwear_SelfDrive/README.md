@@ -361,5 +361,5 @@ pip install -e .\[pc\]
 
 ### 扩展篇
   
- [物件识别](./crazydonekytarmo2.md)
+ [物件识别](./crazydonekytarmo_od.md)
 
