@@ -4,8 +4,10 @@ The `CrazyDonkeyTarmo` project is all about keeping the thrill of high-performan
 We're giving the Tarmo5 RC car a serious makeover and blending it with the DonkeyCar self-driving project.
 
 ## Video Introduction
-* [Building the Car](https://www.bilibili.com/video/BV1qM4m1U7vm)
-* [Autonomous Driving](https://www.bilibili.com/video/BV124HyeUER8)
+* [Building And RC Car](https://youtu.be/OK7YMujeuq8)
+* [Autonomous Driving for Beginne](https://youtu.be/BPF82ybInPA)
+
+Although the video is in Chinese, you can turn on the translation
 
 ---
 ## Vehicle Assembly (Hardwear_Car)
