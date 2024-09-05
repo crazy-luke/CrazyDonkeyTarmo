@@ -1,4 +1,8 @@
+## [English README](./README_EN.md) 👈
+----
+
 # CrazyDonkeyTarmo
+
 
 `CrazyDonkeyTarmo` 项目目标是保留高性能RC车乐趣的同时能开展学习自动驾驶技术。  
 项目深度改造 Tarmo5 RC 车， 结合 DonkeyCar 自动驾驶项目。
