@@ -9,7 +9,7 @@
 
 ## 视频介绍
 * 《造车篇》： https://www.bilibili.com/video/BV1qM4m1U7vm
-* 《自动驾驶篇》: https://www.bilibili.com/video/BV124HyeUER8
+* 《自动驾驶篇》: https://www.bilibili.com/video/BV12aHZeXEUs
 
 ---
 ## 车辆制作 (Hardwear_Car)
