@@ -4,10 +4,10 @@ The `CrazyDonkeyTarmo` project is all about keeping the thrill of high-performan
 We're giving the Tarmo5 RC car a serious makeover and blending it with the DonkeyCar self-driving project.
 
 ## Video Introduction
+* [Autonomous Driving for Beginner](https://youtu.be/BPF82ybInPA)
 * [Building And RC Car](https://youtu.be/OK7YMujeuq8)
-* [Autonomous Driving for Beginne](https://youtu.be/BPF82ybInPA)
 
-Although the video is in Chinese, you can turn on the translation
+Although the video is in Chinese, you can turn on the subtitles (english captions)
 
 ---
 ## Vehicle Assembly (Hardwear_Car)
@@ -28,7 +28,7 @@ Although the video is in Chinese, you can turn on the translation
 
 ---
 ## Autonomous Driving (Softwear_SelfDrive)
-* [Star Pathfinder Autonomous Driving System Manual](./Softwear_SelfDrive/README.md)
+* [Autonomous Driving System Manual](./Softwear_SelfDrive/README.md)
 * [Extended Part - Object Recognition](./Softwear_SelfDrive/crazydonekytarmo_od.md) (Optional)
 * myconfig: Pathfinder configuration reference file
 
